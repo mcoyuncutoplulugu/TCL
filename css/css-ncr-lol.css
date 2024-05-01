@@ -1,0 +1,152 @@
+@font-face {
+  font-family: 'sportspress';
+  src:
+    url('../fonts/fonts-sportspress.ttf') format('truetype'),
+    url('../fonts/fonts-sportspress.woff') format('woff'),
+    url('../fonts/fonts-sportspress.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.sp-icon-ncr-achievements-trophy:before {
+  content: "\e925";
+}
+.sp-icon-ncr-award-medal:before {
+  content: "\e926";
+}
+.sp-icon-ncr-defense:before {
+  content: "\e927";
+}
+.sp-icon-ncr-gamer-mouse:before {
+  content: "\e928";
+}
+.sp-icon-ncr-gaming-chair:before {
+  content: "\e929";
+}
+.sp-icon-ncr-headset:before {
+  content: "\e92a";
+}
+.sp-icon-ncr-keyboard:before {
+  content: "\e92b";
+}
+.sp-icon-ncr-mousepad-and-mouse:before {
+  content: "\e92c";
+}
+.sp-icon-ncr-screen:before {
+  content: "\e92d";
+}
+.sp-icon-ncr-support:before {
+  content: "\e92e";
+}
+.sp-icon-ncr-team-shield:before {
+  content: "\e92f";
+}
+.sp-icon-ncr-account:before {
+  content: "\e908";
+}
+.sp-icon-ncr-achievements:before {
+  content: "\e909";
+}
+.sp-icon-ncr-assists:before {
+  content: "\e90a";
+}
+.sp-icon-ncr-baron-kills:before {
+  content: "\e90b";
+}
+.sp-icon-ncr-comments-small:before {
+  content: "\e90c";
+}
+.sp-icon-ncr-damage:before {
+  content: "\e90d";
+}
+.sp-icon-ncr-deaths:before {
+  content: "\e90e";
+}
+.sp-icon-ncr-dragon-kills:before {
+  content: "\e90f";
+}
+.sp-icon-ncr-explosion:before {
+  content: "\e910";
+}
+.sp-icon-ncr-hardware:before {
+  content: "\e911";
+}
+.sp-icon-ncr-healing:before {
+  content: "\e912";
+}
+.sp-icon-ncr-inhibitors-destroyed:before {
+  content: "\e913";
+}
+.sp-icon-ncr-kills:before {
+  content: "\e914";
+}
+.sp-icon-ncr-lineups:before {
+  content: "\e915";
+}
+.sp-icon-ncr-login-register:before {
+  content: "\e916";
+}
+.sp-icon-ncr-medal:before {
+  content: "\e917";
+}
+.sp-icon-ncr-offense:before {
+  content: "\e918";
+}
+.sp-icon-ncr-overview:before {
+  content: "\e919";
+}
+.sp-icon-ncr-pliers:before {
+  content: "\e91a";
+}
+.sp-icon-ncr-replay:before {
+  content: "\e91b";
+}
+.sp-icon-ncr-rift-heralds-killed:before {
+  content: "\e91c";
+}
+.sp-icon-ncr-skull:before {
+  content: "\e91d";
+}
+.sp-icon-ncr-stats:before {
+  content: "\e91e";
+}
+.sp-icon-ncr-stopwatch:before {
+  content: "\e91f";
+}
+.sp-icon-ncr-tank:before {
+  content: "\e920";
+}
+.sp-icon-ncr-team-overview:before {
+  content: "\e921";
+}
+.sp-icon-ncr-team-shield1:before {
+  content: "\e922";
+}
+.sp-icon-ncr-towers-destroyed:before {
+  content: "\e923";
+}
+.sp-icon-ncr-logout:before {
+  content: "\e924";
+}
+.sp-icon-ncr-trophy:before {
+  content: "\e900";
+}
+.sp-icon-ncr-chart:before {
+  content: "\e901";
+}
+.sp-icon-ncr-close:before {
+  content: "\e902";
+}
+.sp-icon-ncr-filter:before {
+  content: "\e903";
+}
+.sp-icon-ncr-joystick:before {
+  content: "\e904";
+}
+.sp-icon-ncr-thumb-up:before {
+  content: "\e905";
+}
+.sp-icon-ncr-search:before {
+  content: "\e906";
+}
